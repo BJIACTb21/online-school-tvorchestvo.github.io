@@ -1,0 +1,112 @@
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="css/style.css"">
+  <link rel="stylesheet" type="text/css" href="css/style.css"">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+</head>
+<body>
+  <div class="back">
+   <header>
+    <nav class="container">
+      <a class="logo" href="">
+        <span>UBISOFT</span>
+      </a>
+      </a>
+      <div class="nav-toggle"><span></span></div>
+      
+      <ul id="menu">
+        <li><a href="">НОВОСТИ</a></li>
+        <li><a href="pages/game.html">ИГРА</a></li>
+        <li><a href="pages/seasons.html">СЕЗОНЫ</a></li>
+        <li><a href="pages/operators.html">ОПЕРАТИВНИКИ</a></li>
+        <li><a href="pages/esports.html">КИБЕРСПОРТ</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div class="container">
+  <div class="posts-list">
+    <article id="post-1" class="post">
+      
+    <h3 class="hh">КАТАЛОГ КУРСОВ</h3>
+        
+      <div class="post-content">
+        
+        <h2 class="hh3">КУРСЫ ДЕКОРА</h2>
+        <div class="post-image-small"><a href=""><img src="https://static.wixstatic.com/media/0356be_dbd75ed158db4848b52ebffd026b1f71~mv2.png/v1/fill/w_482,h_360,al_c,q_85,usm_0.66_1.00_0.01/s1200.webp"></a></div>
+        <h2 class="hh2">Цель курса - сделать из вас профессионального декоратора. Уроки по декору, оформлению свадеб, украшению банкетов.</h2>
+          
+      
+        <h2 class="hh3">КУРСЫ РИСОВАНИЯ</h2>
+        <div class="post-image-small"><a href=""><img src="https://static.wixstatic.com/media/0356be_849b43a4382d484ab2b8c45f2fbe80cf~mv2.jpg/v1/fill/w_482,h_360,al_c,q_80,usm_0.66_1.00_0.01/816a0ba7f784dbfba4c5c0e0f1c9d7fc.webp"></a></div>
+        <h2 class="hh2">Обучаясь по курсам проекта, малыш научится рисовать, начнет развивать моторику, творческое мышление, уверенность, лидерство и получит массу положительных эмоций.<h2>
+          
+    <h2 class="hh3">КУРСЫ ШАХМАТ</h2>
+        <div class="post-image-small"><a href=""><img src="https://static.wixstatic.com/media/0356be_165903ec15d442d08d69e99e50e370e8~mv2.png/v1/fill/w_482,h_360,al_c,q_85,usm_0.66_1.00_0.01/s1200%20(1).webp"></a></div>
+        <h2 class="hh2">Проект, в котором под руководством профессионального тренера и юного шахматиста, взрослые и дети познают тонкости игры и сделают свои первые шаги в мир больших шахмат.<h2>   
+          <h2 class="hh3">КУРСЫ ЛАНДШАФТНОГО ДИЗАЙНА</h2>
+        <div class="post-image-small"><a href=""><img src="https://static.wixstatic.com/media/0356be_941d2720fa4c42b9986a7f09b808f346~mv2.png/v1/fill/w_482,h_360,al_c,q_85,usm_0.66_1.00_0.01/s1200%20(2).webp"></a></div>
+        <h2 class="hh2">Обучение организовано на высшем уровне. Курс достен к восприятию новичкам в ландшафтном дизайне и не слишком уверенным пользователям компьютером. <h2>
+       
+        <div class="post-footer">
+          <a class="more-link" href="">ЗАПИСАТСЯ НА КУРСЫ</a>
+          <div class="post-social">
+          </div>
+        </div>
+      </div>
+    </article>
+    
+  </div> <!-- конец div class="posts-list"-->
+    <aside>
+  
+  <div class="widget">
+    <h3 class="widget-title">ПОСЛЕДНИЕ НОВОСТИ</h3>
+    <ul class="widget-posts-list">
+      <li>
+        <div class="post-image-small">
+          <a href=""><img src="https://pofenshuyu.com/wp-content/uploads/2018/08/chislo-1-48962616.jpg"></a>
+        </div>
+        <h4 class="widget-post-title">ИНФОРМАЦИЯ О ПРОГРАММАХ ОБУЧЕНИЯ </h4>
+      </li>
+      <li>
+        <div class="post-image-small">
+          <a href=""><img src="https://www.nastroy.net/pic/images/201909/76745-1568648446.jpg"></a>
+        </div>
+        <h4 class="widget-post-title">РАССПИСАНИЕ ВЕБИНАРОВ И МАСТЕР КЛАССОВ</h4>
+      </li>
+      <li>
+        <div class="post-image-small">
+          <a href=""><img src="https://www.nastroy.net/pic/images/201909/446109-1568648446.jpg"></a>
+        </div>
+        <h4 class="widget-post-title">СПЕЦПРЕДЛОЖЕНИЯ И РАСПРОДАЖИ</h4>
+      </li>
+    </ul>
+  </div>
+  <div class="widget">
+    <h3 class="widget-title">СВЯЖИТЕСЬ С НАМИ</h3>
+    <form action="" method="post" id="subscribe">
+      <input  placeholder="E-mail для рассылки" required>
+      <button type="submit"><i class="fa fa-paper-plane-o"></i></button>
+    </form>
+  </div>
+</aside>
+</div> <!-- конец div class="container"-->
+  <footer>
+  <div class="container">
+    <div class="footer-col"><span>© 2019 Все права защищены. +7 903 359 07 01 </span></div>
+    </div>
+  </div>
+</footer>
+<script>
+$('.nav-toggle').on('click', function(){
+$('#menu').toggleClass('active');
+});
+</script>
+
+</body>
+</html>
